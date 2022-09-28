@@ -1,0 +1,6 @@
+{
+  "APP_ID": "Your Nutritionix APP ID",
+  "API_KEY": "Your Nutritionix API Key",
+  "SHEET_ENDPOINT": "Your Sheety Endpoint",
+  "TOKEN": "Your Sheety Token"
+}
